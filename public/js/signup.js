@@ -26,6 +26,7 @@
 
     // input 칸 체크
     const inputCheck = (event) => {
+        console.log('지워도됨');
         let user_name = document.getElementById('user-name').value;
         let user_id = document.getElementById('user-id').value;
         let user_pwd = document.getElementById('user-pwd').value;
