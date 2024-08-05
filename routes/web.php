@@ -22,6 +22,4 @@ Route::get('/signup', function () {
     return view('signup');
 });
 
-
-
-Route::post('/include/signuped', [UserController::class, 'signuped']);
+Route::post('/signup', [UserController::class, 'signup']);
