@@ -24,15 +24,23 @@
         daySelect.appendChild(option);
     }
 
+    const idDuplicateCheck = () =>{
+        let user_id = document.getElementById('user-id').value;   
+        // input  hidden 넣고 값 0
+        // 근데 이거 확ㅇ니 후에 되면 1
+
+        alert('ㅎ헤헤ㅔㅎ');
+    }
+
     // input 칸 체크
     const inputCheck = (event) => {
-        console.log('지워도됨');
         let user_name = document.getElementById('user-name').value;
         let user_id = document.getElementById('user-id').value;
         let user_pwd = document.getElementById('user-pwd').value;
         let user_pwd_check = document.getElementById('user-pwd-check').value;
         let user_phone = document.getElementById('user-phone').value;
         let user_phone_check = document.getElementById('user-phone-check').checked;
+        
         if(!user_name){
             alert("이름을 입력하세요");
             event.preventDefault();
@@ -49,8 +57,12 @@
             alert("연락처를 입력하세요");
             event.preventDefault();
         }else if(!user_phone_check){
-            alert("연락처 동의를 해주십시오.");
-            event.preventDefault();
+            const result = confirm("연락처 미동의시 문자서비스가 제공되지 않습니다.");
+            if(!result){
+                event.preventDefault();
+            }
         }
+
+        
     }
     

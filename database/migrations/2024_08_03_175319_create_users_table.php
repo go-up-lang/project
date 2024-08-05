@@ -11,16 +11,14 @@ return new class extends Migration
         Schema::create('users', function (Blueprint $table) {
             $table->id(); // 기본 키 (자동 증가 ID)
             $table->string('userName');
-            $table->integer('year');
-            $table->integer('month');
-            $table->integer('day');
+            $table->string('userBirthday');
             $table->string('userId')->unique();
             $table->string('userPwd');
-            $table->string('userPwdCheck');
             $table->string('userPhone');
             $table->boolean('userPhoneCheck')->default(false);
-            $table->timestamps(); // created_at 및 updated_at 타임스탬프
-            $table->softDeletes(); // deleted_at 필드 추가
+            $table->timestamp('created_at')->useCurrent();
+            $table->timestamp('updated_at')->nullable();
+            $table->timestamp('deleted_at')->nullable();
         });
     }
 
