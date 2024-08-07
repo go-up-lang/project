@@ -5,7 +5,7 @@ use Illuminate\Http\Request;
 use App\Http\Controllers\UserController;
 
 Route::get('/', function () {
-    return view('board');
+    return view('index');
 });
 
 Route::get('/login', function () {
