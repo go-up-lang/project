@@ -12,6 +12,10 @@ Route::get('/login', function () {
     return view('login');
 });
 
+Route::get('/stock', function () {
+    return view('stock');
+});
+
 Route::post('/logined', function(Request $request){
     $id = $request->input('id');
     $password = $request->input('pwd');

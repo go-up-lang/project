@@ -36,7 +36,7 @@
                 </ul>
                 <div class="navRight">
                     <span class="navbar-text">
-                        <a class="nav-link" href="#">Login</a>
+                        <a class="nav-link" href="/login">Login</a>
                     </span>
                 </div>
             </div>
