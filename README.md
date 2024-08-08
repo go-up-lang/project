@@ -29,9 +29,9 @@
 <br/><br/>
 
 ## Team
-|<img src="https://avatars.githubusercontent.com/u/173075833?s=48&v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/46155632?v=4" width="150" height="150"/>|
+|<img src="https://avatars.githubusercontent.com/u/84506439?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/93964175?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/174152392?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/154667059?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/46155632?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|:-:|:-:|
-|[@hyun-june](https://github.com/hyun-june)<br/>Front-end|[go-up-lang](https://github.com/go-up-lang)<br/>Back-end|
+|[@jaeyoung99-lee](https://github.com/jaeyoung99-lee)<br/>Scrum Master<br/>Developer|[@wpgml](https://github.com/wpgml)<br/>Developer|[@jein4433](https://github.com/jein4433)<br/>Developer|[@hyun-june](https://github.com/hyun-june)<br/>Developer|[@ghd075](https://github.com/ghd075)<br/>Product Owner<br/>Developer|
 <br/>
 
 ## 기능
