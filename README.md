@@ -31,7 +31,7 @@
 ## Team
 |<img src="https://avatars.githubusercontent.com/u/93964175?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/173075833?s=48&v=4" width="150" height="150"/>|
 |:-:|:-:|
-|[@hyun-june](https://github.com/hyun-june)<br/>front-end|[@dbsrbtjs]([https://github.com/ghd075](https://github.com/go-up-lang))<br/>back-end
+|[@hyun-june](https://github.com/hyun-june)<br/>front-end|[@go-up-lang]([https://github.com/ghd075](https://github.com/go-up-lang))<br/>back-end
 <br/>
 
 ## 기능
