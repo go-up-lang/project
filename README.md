@@ -1,66 +1,50 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# 주식 알림
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+## 링크
+- [배포](http://dbsrbtjs.cafe24.com/)
+- [git](https://github.com/go-up-lang/project/tree/master)
+<br/><br/>
 
-## About Laravel
+## 프로젝트 소개
+### 주제
+주식 정보를 기반으로 알림 서비스를 제공한다
+### 목적
+- 사용자 편의성 증대
+  - 사용자들이 현재 위치나 특정 장소의 날씨를 손쉽게 확인<br/>
+- 안전 및 계획 수립
+  - 여행, 야외 활동, 비즈니스 일정 등 다양한 상황에서 실시간 날씨 정보를 제공하여 안전하고 효율적인 계획을 세우기 가능<br/>
+- 정보 통합
+  - 지도와 날씨 정보를 하나의 플랫폼에서 제공하여 사용자 경험을 향상
+### 쓰임새
+- 여행 및 관광
+  - 특정 관광지의 현재 날씨를 지도에서 확인하고, 날씨에 따른 추천 활동이나 관광 코스를 안내
+- 일정 관리
+  - 업무 미팅이나 야외 행사의 위치와 해당 지역의 날씨를 실시간으로 확인하여 계획을 조정할 수 있음
+### 기대
+이 서비스를 통해 사용자들이 날씨 정보에 기반한 더 나은 결정을 내리고, 그로 인해 일상의 편의성과 안전성 향상
+<br/><br/>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## 개발 기간
+2024년 7월 23일 화요일 ~
+<br/><br/>
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Team
+|<img src="https://avatars.githubusercontent.com/u/173075833?s=48&v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/46155632?v=4" width="150" height="150"/>|
+|:-:|:-:|:-:|:-:|:-:|
+|[@hyun-june](https://github.com/hyun-june)<br/>Front-end|[go-up-lang](https://github.com/go-up-lang)<br/>Back-end|
+<br/>
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## 기능
+- 추가 예정
+- 추가 예정
+<br/><br/>
 
-## Learning Laravel
+## API
+- 공공포털데이터 api
+<br/><br/>
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+## 페이지 구성
+<details>
+  
+</details>
+<br/>
