@@ -279,7 +279,7 @@ google.charts.load('current', {'packages':['corechart']});
             slantedTextAngle: 45 // 레이블 회전 각도
           },
           chartArea: {
-            left: 30, // 차트 영역의 왼쪽 여백
+            left: 40, // 차트 영역의 왼쪽 여백
             right: 30, // 차트 영역의 오른쪽 여백
             top: 30, // 차트 영역의 위쪽 여백
             bottom: 50 // 차트 영역의 아래쪽 여백

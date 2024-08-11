@@ -117,7 +117,7 @@
         </div>
         <div class="chatSection">
             <div class="weatherBox">
-                weather
+
             </div>
             <button class="chatButton">Chat</button>
         </div>
@@ -127,7 +127,7 @@
         crossorigin="anonymous"></script>
     <script src="https://kit.fontawesome.com/b4957b2c73.js" crossorigin="anonymous"></script>
     <script src="{{ ('js/main.js') }}" defer></script>
-    
+    <script src="{{ ('js/weather.js') }}" defer></script>
 </body>
 
 </html>
