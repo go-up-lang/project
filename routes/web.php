@@ -5,11 +5,15 @@ use Illuminate\Http\Request;
 use App\Http\Controllers\UserController;
 
 Route::get('/', function () {
-    return view('board');
+    return view('index');
 });
 
 Route::get('/login', function () {
     return view('login');
+});
+
+Route::get('/stock', function () {
+    return view('stock');
 });
 
 Route::post('/logined', function(Request $request){
